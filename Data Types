@@ -1,0 +1,5 @@
+let name = "Praveen"; //String
+let age = 23; //Number
+let isOnline = true; //Boolean
+let city; //Undefined
+let car = null; //Null
