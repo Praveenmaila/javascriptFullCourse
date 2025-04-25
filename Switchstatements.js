@@ -1,8 +1,8 @@
-let day = "Monday";
+let day = "Sunday";
 
 switch(day) {
-  case "Monday":
-    console.log("Start of the week");
+  case "Sundayy":
+    console.log("End of the week");
     break;
   case "Friday":
     console.log("Weekend loading...");
